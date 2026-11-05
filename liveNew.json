@@ -1,0 +1,125 @@
+{
+  "sites": [],
+  "lives": [
+    {
+      "name": "【LIVE】Free-TV 国际 [3419KB/s·2055台]",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】dongyubin/IPTV 收录 iptv.m3u [1486KB/s·1286台]",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】Collect-IPTV 自动优选 [1246KB/s·547台]",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/zilong7728/Collect-IPTV/refs/heads/main/best_sorted.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】youhunwl/TVAPP 收录 Gather.m3u [878KB/s·1955台]",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】suxuang IPv4 [774KB/s·1211台]",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】vbskycn iptv4.m3u [562KB/s·214台]",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】youhunwl/TVAPP 收录 ipv6.m3u（IPv6） [534KB/s·853台]",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】SPX 山东移动（地区限制） [522KB/s·293台]",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/tangyou254-design/ysc-tvbox-sources/main/live-lists/spx-shandong.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】imDazui 国内电视台202509.m3u [325KB/s·1063台]",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/国内电视台202509.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】youhunwl/TVAPP 收录 iptv.m3u [278KB/s·119台]",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】imDazui 国外电视台202409.m3u [233KB/s·666台]",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/国外电视台202409.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】北京 IPTV IPTV-Mobile.m3u（需本地网关） [220KB/s·134台]",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Mobile.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】北京 IPTV IPTV-Unicom.m3u（需本地网关） [218KB/s·134台]",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】dongyubin/IPTV 收录 zby.txt [203KB/s·586台]",
+      "type": 0,
+      "url": "https://myernestlu.github.io/zby.txt",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】Qist 初秋语 IPv4 [197KB/s·202台]",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/list.txt",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】imDazui 移动IPV6IPTV直播源.m3u（IPv6） [164KB/s·168台]",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/移动IPV6IPTV直播源.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】Guovin 自动聚合 [135KB/s·837台]",
+      "type": 0,
+      "url": "https://guovin.github.io/iptv-api/result.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】youhunwl/TVAPP 收录 TV-IPV4.m3u [105KB/s·58台]",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】IPTV-org 中国 [102KB/s·150台]",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/countries/cn.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】IPTV-org 中文 [88KB/s·221台]",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+      "playerType": 1
+    }
+  ]
+}
