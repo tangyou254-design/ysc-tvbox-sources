@@ -1,0 +1,23 @@
+{
+  "sites": [],
+  "lives": [
+    {
+      "name": "【LIVE】HerbertHe o_cn.m3u",
+      "type": 0,
+      "url": "https://m3u.ibert.me/o_cn.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】HerbertHe y_g.m3u",
+      "type": 0,
+      "url": "https://m3u.ibert.me/y_g.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】HerbertHe ycl_iptv.m3u",
+      "type": 0,
+      "url": "https://m3u.ibert.me/ycl_iptv.m3u",
+      "playerType": 1
+    }
+  ]
+}

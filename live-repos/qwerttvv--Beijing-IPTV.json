@@ -1,0 +1,17 @@
+{
+  "sites": [],
+  "lives": [
+    {
+      "name": "【LIVE】北京 IPTV IPTV-Unicom.m3u（需本地网关）",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】北京 IPTV IPTV-Mobile.m3u（需本地网关）",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Mobile.m3u",
+      "playerType": 1
+    }
+  ]
+}

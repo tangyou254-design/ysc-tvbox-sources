@@ -1,0 +1,11 @@
+{
+  "sites": [],
+  "lives": [
+    {
+      "name": "【LIVE】suxuang IPv4",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+      "playerType": 1
+    }
+  ]
+}

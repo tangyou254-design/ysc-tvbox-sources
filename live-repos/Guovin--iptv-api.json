@@ -1,0 +1,11 @@
+{
+  "sites": [],
+  "lives": [
+    {
+      "name": "【LIVE】Guovin 自动聚合",
+      "type": 0,
+      "url": "https://guovin.github.io/iptv-api/result.m3u",
+      "playerType": 1
+    }
+  ]
+}

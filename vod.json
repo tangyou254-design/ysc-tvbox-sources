@@ -1,15 +1,123 @@
 {
   "urls": [
     {
-      "name": "【点播】Qist 大而全",
+      "name": "【点播】qist/tvbox 0821.json",
       "url": "https://raw.githubusercontent.com/qist/tvbox/master/0821.json"
     },
     {
-      "name": "【点播】Qist 饭太硬配置",
+      "name": "【点播】qist/tvbox 0826.json",
       "url": "https://raw.githubusercontent.com/qist/tvbox/master/0826.json"
     },
     {
-      "name": "【点播】TVboxorg 聚合",
+      "name": "【点播】qist/tvbox 0827.json",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/0827.json"
+    },
+    {
+      "name": "【点播】qist/tvbox js.json",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/js.json"
+    },
+    {
+      "name": "【点播】gaotianliuyun/gao 0821.json",
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json"
+    },
+    {
+      "name": "【点播】gaotianliuyun/gao 0826.json",
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json"
+    },
+    {
+      "name": "【点播】gaotianliuyun/gao 0827.json",
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json"
+    },
+    {
+      "name": "【点播】gaotianliuyun/gao js.json",
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
+    },
+    {
+      "name": "【点播】cyao2q m.json",
+      "url": "https://raw.githubusercontent.com/cyao2q/files/master/m.json"
+    },
+    {
+      "name": "【点播】cyao2q xs.json",
+      "url": "https://raw.githubusercontent.com/cyao2q/files/master/xs.json"
+    },
+    {
+      "name": "【点播】youhunwl/TVAPP 收录 newwex.json",
+      "url": "https://9280.kstore.vip/newwex.json"
+    },
+    {
+      "name": "【点播】youhunwl/TVAPP 收录 dm.json",
+      "url": "https://www.yingm.cc/dm/dm.json"
+    },
+    {
+      "name": "【点播】youhunwl/TVAPP 收录 top98.json",
+      "url": "http://home.jundie.top:81/top98.json"
+    },
+    {
+      "name": "【点播】youhunwl/TVAPP 收录 0.json",
+      "url": "https://dxawi.github.io/0/0.json"
+    },
+    {
+      "name": "【点播】youhunwl/TVAPP 收录 api.json",
+      "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json"
+    },
+    {
+      "name": "【点播】youhunwl/TVAPP 收录 api.json",
+      "url": "https://raw.githubusercontent.com/chitue/dongliTV/main/api.json"
+    },
+    {
+      "name": "【点播】youhunwl/TVAPP 收录 aowu.json",
+      "url": "https://9763.kstore.vip/aowu.json"
+    },
+    {
+      "name": "【点播】laoma528/awesome-zhuiju-free 收录 x.json",
+      "url": "https://szyyds.cn/tv/x.json"
+    },
+    {
+      "name": "【点播】laoma528/awesome-zhuiju-free 收录 xgg.json",
+      "url": "http://47.96.82.41:5188/rose/18/xgg.json"
+    },
+    {
+      "name": "【点播】laoma528/awesome-zhuiju-free 收录 fish.json",
+      "url": "https://6800.kstore.vip/fish.json"
+    },
+    {
+      "name": "【点播】ngo5/IPTV 收录 wex.json",
+      "url": "https://9280.kstore.space/wex.json"
+    },
+    {
+      "name": "【点播】ngo5/IPTV 收录 jsm.json",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json"
+    },
+    {
+      "name": "【点播】dongyubin/IPTV 收录 py.json",
+      "url": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json"
+    },
+    {
+      "name": "【点播】dongyubin/IPTV 收录 js.json",
+      "url": "https://leezn.eu.org/TVBox/js.json"
+    },
+    {
+      "name": "【点播】dongyubin/IPTV 收录 m.json",
+      "url": "https://cdn.jsdelivr.net/gh/jyoketsu/tv@main/m.json"
+    },
+    {
+      "name": "【点播】noimank/tvbox 🚀1-心魔在线",
+      "url": "https://raw.githubusercontent.com/yw88075/tvbox/main/yw.json"
+    },
+    {
+      "name": "【点播】noimank/tvbox 🚀4-健康家用",
+      "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json"
+    },
+    {
+      "name": "【点播】noimank/tvbox 🚀5-Clun在线",
+      "url": "https://clun.top/box.json"
+    },
+    {
+      "name": "【点播】xianyuyimu/TVBOX- 🌵香雅情线路",
+      "url": "https://raw.githubusercontent.com/yydfys/yydf/main/XYQTVBox/xyq.json"
+    },
+    {
+      "name": "【点播】TVboxorg 聚合（保留）",
       "url": "https://raw.githubusercontent.com/TVboxorg/TVbox/main/dist/official.json"
     }
   ]

@@ -1,0 +1,11 @@
+{
+  "sites": [],
+  "lives": [
+    {
+      "name": "【LIVE】Collect-IPTV 自动优选",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/zilong7728/Collect-IPTV/refs/heads/main/best_sorted.m3u",
+      "playerType": 1
+    }
+  ]
+}

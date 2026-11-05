@@ -14,6 +14,234 @@
       "playerType": 1
     },
     {
+      "name": "【LIVE】imDazui 国内电视台202509.m3u",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/国内电视台202509.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】imDazui 移动IPV6IPTV直播源.m3u（IPv6）",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/移动IPV6IPTV直播源.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】imDazui 国外电视台202409.m3u",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/国外电视台202409.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】imDazui 台湾香港澳门202506.m3u",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/台湾香港澳门202506.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】imDazui 全国景区源2025.m3u",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/全国景区源2025.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】范明明 IPv6（IPv6）",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】Guovin 自动聚合",
+      "type": 0,
+      "url": "https://guovin.github.io/iptv-api/result.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】Free-TV 国际",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】vbskycn iptv4.m3u",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】HerbertHe o_cn.m3u",
+      "type": 0,
+      "url": "https://m3u.ibert.me/o_cn.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】HerbertHe y_g.m3u",
+      "type": 0,
+      "url": "https://m3u.ibert.me/y_g.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】HerbertHe ycl_iptv.m3u",
+      "type": 0,
+      "url": "https://m3u.ibert.me/ycl_iptv.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】suxuang IPv4",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】SPX 山东移动（地区限制）",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/tangyou254-design/ysc-tvbox-sources/main/live-lists/spx-shandong.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】youhunwl/TVAPP 收录 iptv4.txt",
+      "type": 0,
+      "url": "https://live.zbds.top/tv/iptv4.txt",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】youhunwl/TVAPP 收录 ipv6.m3u（IPv6）",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】youhunwl/TVAPP 收录 iptv4.m3u",
+      "type": 0,
+      "url": "https://live.zbds.top/tv/iptv4.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】youhunwl/TVAPP 收录 TV-IPV4.m3u",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】youhunwl/TVAPP 收录 IPTV.m3u",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】youhunwl/TVAPP 收录 iptv.m3u",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】youhunwl/TVAPP 收录 Gather.m3u",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】youhunwl/TVAPP 收录 Gather.m3u",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】youhunwl/TVAPP 收录 index.m3u",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/index.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】youhunwl/TVAPP 收录 test_channels.m3u",
+      "type": 0,
+      "url": "https://epg.pw/test_channels.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】youhunwl/TVAPP 收录 test_channels_hong_kong.m3u",
+      "type": 0,
+      "url": "https://epg.pw/test_channels_hong_kong.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】youhunwl/TVAPP 收录 test_channels_macau.m3u",
+      "type": 0,
+      "url": "https://epg.pw/test_channels_macau.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】youhunwl/TVAPP 收录 test_channels_taiwan.m3u",
+      "type": 0,
+      "url": "https://epg.pw/test_channels_taiwan.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】ngo5/IPTV 收录 live.m3u",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/zwc456baby/iptv_alive/refs/heads/master/live.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】ngo5/IPTV 收录 cnTV_AutoUpdate.m3u8",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】ngo5/IPTV 收录 fmml_ipv6.m3u（IPv6）",
+      "type": 0,
+      "url": "https://m3u.ibert.me/fmml_ipv6.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】dongyubin/IPTV 收录 zby.txt",
+      "type": 0,
+      "url": "https://myernestlu.github.io/zby.txt",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】dongyubin/IPTV 收录 iptv.m3u",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】dongyubin/IPTV 收录 tw.m3u",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/countries/tw.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】dongyubin/IPTV 收录 test_channels_singapore.m3u",
+      "type": 0,
+      "url": "https://epg.pw/test_channels_singapore.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】dongyubin/IPTV 收录 test_channels_malaysia.m3u",
+      "type": 0,
+      "url": "https://epg.pw/test_channels_malaysia.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】Collect-IPTV 自动优选",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/zilong7728/Collect-IPTV/refs/heads/main/best_sorted.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】北京 IPTV IPTV-Unicom.m3u（需本地网关）",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】北京 IPTV IPTV-Mobile.m3u（需本地网关）",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Mobile.m3u",
+      "playerType": 1
+    },
+    {
       "name": "【LIVE】Qist 初秋语 IPv4",
       "type": 0,
       "url": "https://raw.githubusercontent.com/qist/tvbox/master/list.txt",

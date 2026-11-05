@@ -1,0 +1,35 @@
+{
+  "sites": [],
+  "lives": [
+    {
+      "name": "【LIVE】imDazui 国内电视台202509.m3u",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/国内电视台202509.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】imDazui 移动IPV6IPTV直播源.m3u（IPv6）",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/移动IPV6IPTV直播源.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】imDazui 国外电视台202409.m3u",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/国外电视台202409.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】imDazui 台湾香港澳门202506.m3u",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/台湾香港澳门202506.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】imDazui 全国景区源2025.m3u",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/全国景区源2025.m3u",
+      "playerType": 1
+    }
+  ]
+}

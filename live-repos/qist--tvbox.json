@@ -1,0 +1,11 @@
+{
+  "sites": [],
+  "lives": [
+    {
+      "name": "【LIVE】Qist 初秋语 IPv4",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/list.txt",
+      "playerType": 1
+    }
+  ]
+}

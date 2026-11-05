@@ -1,0 +1,11 @@
+{
+  "sites": [],
+  "lives": [
+    {
+      "name": "【LIVE】SPX 山东移动（地区限制）",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/tangyou254-design/ysc-tvbox-sources/main/live-lists/spx-shandong.m3u",
+      "playerType": 1
+    }
+  ]
+}

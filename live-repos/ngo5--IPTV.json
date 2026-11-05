@@ -1,0 +1,59 @@
+{
+  "sites": [],
+  "lives": [
+    {
+      "name": "【LIVE】范明明 IPv6（IPv6）",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】suxuang IPv4",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】youhunwl/TVAPP 收录 ipv6.m3u（IPv6）",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】youhunwl/TVAPP 收录 TV-IPV4.m3u",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】youhunwl/TVAPP 收录 IPTV.m3u",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】youhunwl/TVAPP 收录 iptv.m3u",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】ngo5/IPTV 收录 live.m3u",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/zwc456baby/iptv_alive/refs/heads/master/live.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】ngo5/IPTV 收录 cnTV_AutoUpdate.m3u8",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】ngo5/IPTV 收录 fmml_ipv6.m3u（IPv6）",
+      "type": 0,
+      "url": "https://m3u.ibert.me/fmml_ipv6.m3u",
+      "playerType": 1
+    }
+  ]
+}

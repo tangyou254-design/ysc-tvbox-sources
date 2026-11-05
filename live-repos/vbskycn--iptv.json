@@ -1,0 +1,11 @@
+{
+  "sites": [],
+  "lives": [
+    {
+      "name": "【LIVE】vbskycn iptv4.m3u",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u",
+      "playerType": 1
+    }
+  ]
+}

@@ -1,0 +1,1311 @@
+{
+  "checked_date": "2026-11-05",
+  "timezone": "Asia/Shanghai",
+  "metric": "GitHub stargazers_count",
+  "scope": "GitHub 搜索 tvbox、iptv、影视仓，各取 Star 降序前 60 项后合并；筛选公开配置/列表或明确收录地址的相关仓库，再按 Star 降序取本轮核验可整合的 20 个来源仓库。不是全站访问量榜，也不保证穷尽所有同义词搜索结果。",
+  "ranking": [
+    {
+      "rank": 1,
+      "repository": "iptv-org/iptv",
+      "stars": 143236,
+      "url": "https://github.com/iptv-org/iptv",
+      "vod_count": 0,
+      "live_count": 2,
+      "role": "配置或列表发布仓库"
+    },
+    {
+      "rank": 2,
+      "repository": "imDazui/Tvlist-awesome-m3u-m3u8",
+      "stars": 30332,
+      "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
+      "vod_count": 0,
+      "live_count": 5,
+      "role": "配置或列表发布仓库"
+    },
+    {
+      "rank": 3,
+      "repository": "fanmingming/live",
+      "stars": 28772,
+      "url": "https://github.com/fanmingming/live",
+      "vod_count": 0,
+      "live_count": 1,
+      "role": "配置或列表发布仓库"
+    },
+    {
+      "rank": 4,
+      "repository": "youhunwl/TVAPP",
+      "stars": 27271,
+      "url": "https://github.com/youhunwl/TVAPP",
+      "vod_count": 7,
+      "live_count": 15,
+      "role": "收录合集（包含第三方上游）"
+    },
+    {
+      "rank": 5,
+      "repository": "Guovin/iptv-api",
+      "stars": 25956,
+      "url": "https://github.com/Guovin/iptv-api",
+      "vod_count": 0,
+      "live_count": 1,
+      "role": "配置或列表发布仓库"
+    },
+    {
+      "rank": 6,
+      "repository": "Free-TV/IPTV",
+      "stars": 21733,
+      "url": "https://github.com/Free-TV/IPTV",
+      "vod_count": 0,
+      "live_count": 1,
+      "role": "配置或列表发布仓库"
+    },
+    {
+      "rank": 7,
+      "repository": "laoma528/awesome-zhuiju-free",
+      "stars": 14671,
+      "url": "https://github.com/laoma528/awesome-zhuiju-free",
+      "vod_count": 3,
+      "live_count": 0,
+      "role": "收录合集（包含第三方上游）"
+    },
+    {
+      "rank": 8,
+      "repository": "qist/tvbox",
+      "stars": 12609,
+      "url": "https://github.com/qist/tvbox",
+      "vod_count": 4,
+      "live_count": 1,
+      "role": "配置或列表发布仓库"
+    },
+    {
+      "rank": 9,
+      "repository": "vbskycn/iptv",
+      "stars": 10096,
+      "url": "https://github.com/vbskycn/iptv",
+      "vod_count": 0,
+      "live_count": 1,
+      "role": "配置或列表发布仓库"
+    },
+    {
+      "rank": 10,
+      "repository": "HerbertHe/iptv-sources",
+      "stars": 9063,
+      "url": "https://github.com/HerbertHe/iptv-sources",
+      "vod_count": 0,
+      "live_count": 3,
+      "role": "配置或列表发布仓库"
+    },
+    {
+      "rank": 11,
+      "repository": "gaotianliuyun/gao",
+      "stars": 8122,
+      "url": "https://github.com/gaotianliuyun/gao",
+      "vod_count": 4,
+      "live_count": 0,
+      "role": "配置或列表发布仓库"
+    },
+    {
+      "rank": 12,
+      "repository": "ngo5/IPTV",
+      "stars": 6260,
+      "url": "https://github.com/ngo5/IPTV",
+      "vod_count": 3,
+      "live_count": 9,
+      "role": "收录合集（包含第三方上游）"
+    },
+    {
+      "rank": 13,
+      "repository": "suxuang/myIPTV",
+      "stars": 5100,
+      "url": "https://github.com/suxuang/myIPTV",
+      "vod_count": 0,
+      "live_count": 1,
+      "role": "配置或列表发布仓库"
+    },
+    {
+      "rank": 14,
+      "repository": "dongyubin/IPTV",
+      "stars": 4634,
+      "url": "https://github.com/dongyubin/IPTV",
+      "vod_count": 4,
+      "live_count": 14,
+      "role": "收录合集（包含第三方上游）"
+    },
+    {
+      "rank": 15,
+      "repository": "noimank/tvbox",
+      "stars": 3679,
+      "url": "https://github.com/noimank/tvbox",
+      "vod_count": 5,
+      "live_count": 0,
+      "role": "收录合集（包含第三方上游）"
+    },
+    {
+      "rank": 16,
+      "repository": "cyao2q/files",
+      "stars": 3167,
+      "url": "https://github.com/cyao2q/files",
+      "vod_count": 2,
+      "live_count": 0,
+      "role": "配置或列表发布仓库"
+    },
+    {
+      "rank": 17,
+      "repository": "xianyuyimu/TVBOX-",
+      "stars": 3122,
+      "url": "https://github.com/xianyuyimu/TVBOX-",
+      "vod_count": 4,
+      "live_count": 0,
+      "role": "收录合集（包含第三方上游）"
+    },
+    {
+      "rank": 18,
+      "repository": "SPX372928/MyIPTV",
+      "stars": 2701,
+      "url": "https://github.com/SPX372928/MyIPTV",
+      "vod_count": 0,
+      "live_count": 1,
+      "role": "配置或列表发布仓库"
+    },
+    {
+      "rank": 19,
+      "repository": "zilong7728/Collect-IPTV",
+      "stars": 2663,
+      "url": "https://github.com/zilong7728/Collect-IPTV",
+      "vod_count": 0,
+      "live_count": 1,
+      "role": "配置或列表发布仓库"
+    },
+    {
+      "rank": 20,
+      "repository": "qwerttvv/Beijing-IPTV",
+      "stars": 2311,
+      "url": "https://github.com/qwerttvv/Beijing-IPTV",
+      "vod_count": 0,
+      "live_count": 2,
+      "role": "配置或列表发布仓库"
+    }
+  ],
+  "supplemental_repositories": [
+    "TVboxorg/TVbox"
+  ],
+  "source_count": 71,
+  "vod_count": 30,
+  "live_count": 41,
+  "sources": [
+    {
+      "url": "https://iptv-org.github.io/iptv/countries/cn.m3u",
+      "name": "IPTV-org 中国",
+      "kind": "live",
+      "items": 155,
+      "repositories": [
+        "iptv-org/iptv"
+      ]
+    },
+    {
+      "url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+      "name": "IPTV-org 中文",
+      "kind": "live",
+      "items": 227,
+      "repositories": [
+        "iptv-org/iptv"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/国内电视台202509.m3u",
+      "name": "imDazui 国内电视台202509.m3u",
+      "kind": "live",
+      "items": 1063,
+      "repositories": [
+        "imDazui/Tvlist-awesome-m3u-m3u8"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/移动IPV6IPTV直播源.m3u",
+      "name": "imDazui 移动IPV6IPTV直播源.m3u（IPv6）",
+      "kind": "live",
+      "items": 168,
+      "repositories": [
+        "imDazui/Tvlist-awesome-m3u-m3u8"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/国外电视台202409.m3u",
+      "name": "imDazui 国外电视台202409.m3u",
+      "kind": "live",
+      "items": 666,
+      "repositories": [
+        "imDazui/Tvlist-awesome-m3u-m3u8"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/台湾香港澳门202506.m3u",
+      "name": "imDazui 台湾香港澳门202506.m3u",
+      "kind": "live",
+      "items": 202,
+      "repositories": [
+        "imDazui/Tvlist-awesome-m3u-m3u8"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/全国景区源2025.m3u",
+      "name": "imDazui 全国景区源2025.m3u",
+      "kind": "live",
+      "items": 114,
+      "repositories": [
+        "imDazui/Tvlist-awesome-m3u-m3u8"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+      "name": "范明明 IPv6（IPv6）",
+      "kind": "live",
+      "items": 82,
+      "repositories": [
+        "fanmingming/live",
+        "youhunwl/TVAPP",
+        "ngo5/IPTV",
+        "dongyubin/IPTV"
+      ]
+    },
+    {
+      "url": "https://guovin.github.io/iptv-api/result.m3u",
+      "name": "Guovin 自动聚合",
+      "kind": "live",
+      "items": 839,
+      "repositories": [
+        "Guovin/iptv-api"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
+      "name": "Free-TV 国际",
+      "kind": "live",
+      "items": 2065,
+      "repositories": [
+        "Free-TV/IPTV"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/0821.json",
+      "name": "qist/tvbox 0821.json",
+      "kind": "vod",
+      "items": 86,
+      "repositories": [
+        "qist/tvbox"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/0826.json",
+      "name": "qist/tvbox 0826.json",
+      "kind": "vod",
+      "items": 54,
+      "repositories": [
+        "qist/tvbox"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/0827.json",
+      "name": "qist/tvbox 0827.json",
+      "kind": "vod",
+      "items": 33,
+      "repositories": [
+        "qist/tvbox"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/js.json",
+      "name": "qist/tvbox js.json",
+      "kind": "vod",
+      "items": 298,
+      "repositories": [
+        "qist/tvbox"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
+      "name": "gaotianliuyun/gao 0821.json",
+      "kind": "vod",
+      "items": 86,
+      "repositories": [
+        "gaotianliuyun/gao"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json",
+      "name": "gaotianliuyun/gao 0826.json",
+      "kind": "vod",
+      "items": 51,
+      "repositories": [
+        "gaotianliuyun/gao"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
+      "name": "gaotianliuyun/gao 0827.json",
+      "kind": "vod",
+      "items": 33,
+      "repositories": [
+        "gaotianliuyun/gao",
+        "noimank/tvbox",
+        "xianyuyimu/TVBOX-"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "name": "gaotianliuyun/gao js.json",
+      "kind": "vod",
+      "items": 298,
+      "repositories": [
+        "gaotianliuyun/gao",
+        "ngo5/IPTV",
+        "noimank/tvbox",
+        "xianyuyimu/TVBOX-"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u",
+      "name": "vbskycn iptv4.m3u",
+      "kind": "live",
+      "items": 214,
+      "repositories": [
+        "vbskycn/iptv"
+      ]
+    },
+    {
+      "url": "https://m3u.ibert.me/o_cn.m3u",
+      "name": "HerbertHe o_cn.m3u",
+      "kind": "live",
+      "items": 154,
+      "repositories": [
+        "HerbertHe/iptv-sources"
+      ]
+    },
+    {
+      "url": "https://m3u.ibert.me/y_g.m3u",
+      "name": "HerbertHe y_g.m3u",
+      "kind": "live",
+      "items": 123,
+      "repositories": [
+        "HerbertHe/iptv-sources"
+      ]
+    },
+    {
+      "url": "https://m3u.ibert.me/ycl_iptv.m3u",
+      "name": "HerbertHe ycl_iptv.m3u",
+      "kind": "live",
+      "items": 96,
+      "repositories": [
+        "HerbertHe/iptv-sources"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+      "name": "suxuang IPv4",
+      "kind": "live",
+      "items": 1273,
+      "repositories": [
+        "suxuang/myIPTV",
+        "youhunwl/TVAPP",
+        "ngo5/IPTV"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/cyao2q/files/master/m.json",
+      "name": "cyao2q m.json",
+      "kind": "vod",
+      "items": 21,
+      "repositories": [
+        "cyao2q/files"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/cyao2q/files/master/xs.json",
+      "name": "cyao2q xs.json",
+      "kind": "vod",
+      "items": 66,
+      "repositories": [
+        "cyao2q/files"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/tangyou254-design/ysc-tvbox-sources/main/live-lists/spx-shandong.m3u",
+      "name": "SPX 山东移动（地区限制）",
+      "kind": "live",
+      "items": 293,
+      "repositories": [
+        "SPX372928/MyIPTV"
+      ],
+      "upstream_url": "https://spx372928.github.io/MyIPTV/%E5%B1%B1%E4%B8%9CSNM%E7%A7%BB%E5%8A%A8CDN%E7%89%88.txt",
+      "note": "上游无分组 TXT 转为标准 M3U 快照；需要山东移动网络；不会自动刷新快照。"
+    },
+    {
+      "url": "https://9280.kstore.vip/newwex.json",
+      "name": "youhunwl/TVAPP 收录 newwex.json",
+      "kind": "vod",
+      "items": 98,
+      "repositories": [
+        "youhunwl/TVAPP"
+      ]
+    },
+    {
+      "url": "https://www.yingm.cc/dm/dm.json",
+      "name": "youhunwl/TVAPP 收录 dm.json",
+      "kind": "vod",
+      "items": 27,
+      "repositories": [
+        "youhunwl/TVAPP"
+      ]
+    },
+    {
+      "url": "http://home.jundie.top:81/top98.json",
+      "name": "youhunwl/TVAPP 收录 top98.json",
+      "kind": "vod",
+      "items": 24,
+      "repositories": [
+        "youhunwl/TVAPP"
+      ]
+    },
+    {
+      "url": "https://dxawi.github.io/0/0.json",
+      "name": "youhunwl/TVAPP 收录 0.json",
+      "kind": "vod",
+      "items": 48,
+      "repositories": [
+        "youhunwl/TVAPP",
+        "dongyubin/IPTV",
+        "xianyuyimu/TVBOX-"
+      ]
+    },
+    {
+      "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json",
+      "name": "youhunwl/TVAPP 收录 api.json",
+      "kind": "vod",
+      "items": 35,
+      "repositories": [
+        "youhunwl/TVAPP"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/chitue/dongliTV/main/api.json",
+      "name": "youhunwl/TVAPP 收录 api.json",
+      "kind": "vod",
+      "items": 93,
+      "repositories": [
+        "youhunwl/TVAPP"
+      ]
+    },
+    {
+      "url": "https://9763.kstore.vip/aowu.json",
+      "name": "youhunwl/TVAPP 收录 aowu.json",
+      "kind": "vod",
+      "items": 78,
+      "repositories": [
+        "youhunwl/TVAPP"
+      ]
+    },
+    {
+      "url": "https://live.zbds.top/tv/iptv4.txt",
+      "name": "youhunwl/TVAPP 收录 iptv4.txt",
+      "kind": "live",
+      "items": 283,
+      "repositories": [
+        "youhunwl/TVAPP"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u",
+      "name": "youhunwl/TVAPP 收录 ipv6.m3u（IPv6）",
+      "kind": "live",
+      "items": 862,
+      "repositories": [
+        "youhunwl/TVAPP",
+        "ngo5/IPTV"
+      ]
+    },
+    {
+      "url": "https://live.zbds.top/tv/iptv4.m3u",
+      "name": "youhunwl/TVAPP 收录 iptv4.m3u",
+      "kind": "live",
+      "items": 214,
+      "repositories": [
+        "youhunwl/TVAPP"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u",
+      "name": "youhunwl/TVAPP 收录 TV-IPV4.m3u",
+      "kind": "live",
+      "items": 58,
+      "repositories": [
+        "youhunwl/TVAPP",
+        "ngo5/IPTV"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+      "name": "youhunwl/TVAPP 收录 IPTV.m3u",
+      "kind": "live",
+      "items": 96,
+      "repositories": [
+        "youhunwl/TVAPP",
+        "ngo5/IPTV",
+        "dongyubin/IPTV"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "name": "youhunwl/TVAPP 收录 iptv.m3u",
+      "kind": "live",
+      "items": 120,
+      "repositories": [
+        "youhunwl/TVAPP",
+        "ngo5/IPTV",
+        "dongyubin/IPTV"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u",
+      "name": "youhunwl/TVAPP 收录 Gather.m3u",
+      "kind": "live",
+      "items": 1956,
+      "repositories": [
+        "youhunwl/TVAPP",
+        "dongyubin/IPTV"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+      "name": "youhunwl/TVAPP 收录 Gather.m3u",
+      "kind": "live",
+      "items": 123,
+      "repositories": [
+        "youhunwl/TVAPP",
+        "dongyubin/IPTV"
+      ]
+    },
+    {
+      "url": "https://iptv-org.github.io/iptv/index.m3u",
+      "name": "youhunwl/TVAPP 收录 index.m3u",
+      "kind": "live",
+      "items": 11403,
+      "repositories": [
+        "youhunwl/TVAPP"
+      ]
+    },
+    {
+      "url": "https://epg.pw/test_channels.m3u",
+      "name": "youhunwl/TVAPP 收录 test_channels.m3u",
+      "kind": "live",
+      "items": 1134,
+      "repositories": [
+        "youhunwl/TVAPP",
+        "dongyubin/IPTV"
+      ]
+    },
+    {
+      "url": "https://epg.pw/test_channels_hong_kong.m3u",
+      "name": "youhunwl/TVAPP 收录 test_channels_hong_kong.m3u",
+      "kind": "live",
+      "items": 26,
+      "repositories": [
+        "youhunwl/TVAPP",
+        "dongyubin/IPTV"
+      ]
+    },
+    {
+      "url": "https://epg.pw/test_channels_macau.m3u",
+      "name": "youhunwl/TVAPP 收录 test_channels_macau.m3u",
+      "kind": "live",
+      "items": 19,
+      "repositories": [
+        "youhunwl/TVAPP",
+        "dongyubin/IPTV"
+      ]
+    },
+    {
+      "url": "https://epg.pw/test_channels_taiwan.m3u",
+      "name": "youhunwl/TVAPP 收录 test_channels_taiwan.m3u",
+      "kind": "live",
+      "items": 60,
+      "repositories": [
+        "youhunwl/TVAPP",
+        "dongyubin/IPTV"
+      ]
+    },
+    {
+      "url": "https://szyyds.cn/tv/x.json",
+      "name": "laoma528/awesome-zhuiju-free 收录 x.json",
+      "kind": "vod",
+      "items": 62,
+      "repositories": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "url": "http://47.96.82.41:5188/rose/18/xgg.json",
+      "name": "laoma528/awesome-zhuiju-free 收录 xgg.json",
+      "kind": "vod",
+      "items": 43,
+      "repositories": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "url": "https://6800.kstore.vip/fish.json",
+      "name": "laoma528/awesome-zhuiju-free 收录 fish.json",
+      "kind": "vod",
+      "items": 104,
+      "repositories": [
+        "laoma528/awesome-zhuiju-free"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/zwc456baby/iptv_alive/refs/heads/master/live.m3u",
+      "name": "ngo5/IPTV 收录 live.m3u",
+      "kind": "live",
+      "items": 31,
+      "repositories": [
+        "ngo5/IPTV"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8",
+      "name": "ngo5/IPTV 收录 cnTV_AutoUpdate.m3u8",
+      "kind": "live",
+      "items": 68,
+      "repositories": [
+        "ngo5/IPTV"
+      ]
+    },
+    {
+      "url": "https://m3u.ibert.me/fmml_ipv6.m3u",
+      "name": "ngo5/IPTV 收录 fmml_ipv6.m3u（IPv6）",
+      "kind": "live",
+      "items": 82,
+      "repositories": [
+        "ngo5/IPTV"
+      ]
+    },
+    {
+      "url": "https://9280.kstore.space/wex.json",
+      "name": "ngo5/IPTV 收录 wex.json",
+      "kind": "vod",
+      "items": 63,
+      "repositories": [
+        "ngo5/IPTV"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json",
+      "name": "ngo5/IPTV 收录 jsm.json",
+      "kind": "vod",
+      "items": 157,
+      "repositories": [
+        "ngo5/IPTV"
+      ]
+    },
+    {
+      "url": "https://myernestlu.github.io/zby.txt",
+      "name": "dongyubin/IPTV 收录 zby.txt",
+      "kind": "live",
+      "items": 585,
+      "repositories": [
+        "dongyubin/IPTV"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u",
+      "name": "dongyubin/IPTV 收录 iptv.m3u",
+      "kind": "live",
+      "items": 1286,
+      "repositories": [
+        "dongyubin/IPTV"
+      ]
+    },
+    {
+      "url": "https://iptv-org.github.io/iptv/countries/tw.m3u",
+      "name": "dongyubin/IPTV 收录 tw.m3u",
+      "kind": "live",
+      "items": 34,
+      "repositories": [
+        "dongyubin/IPTV"
+      ]
+    },
+    {
+      "url": "https://epg.pw/test_channels_singapore.m3u",
+      "name": "dongyubin/IPTV 收录 test_channels_singapore.m3u",
+      "kind": "live",
+      "items": 8,
+      "repositories": [
+        "dongyubin/IPTV"
+      ]
+    },
+    {
+      "url": "https://epg.pw/test_channels_malaysia.m3u",
+      "name": "dongyubin/IPTV 收录 test_channels_malaysia.m3u",
+      "kind": "live",
+      "items": 17,
+      "repositories": [
+        "dongyubin/IPTV"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json",
+      "name": "dongyubin/IPTV 收录 py.json",
+      "kind": "vod",
+      "items": 23,
+      "repositories": [
+        "dongyubin/IPTV"
+      ]
+    },
+    {
+      "url": "https://leezn.eu.org/TVBox/js.json",
+      "name": "dongyubin/IPTV 收录 js.json",
+      "kind": "vod",
+      "items": 203,
+      "repositories": [
+        "dongyubin/IPTV"
+      ]
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/jyoketsu/tv@main/m.json",
+      "name": "dongyubin/IPTV 收录 m.json",
+      "kind": "vod",
+      "items": 58,
+      "repositories": [
+        "dongyubin/IPTV"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
+      "name": "noimank/tvbox 🚀1-心魔在线",
+      "kind": "vod",
+      "items": 151,
+      "repositories": [
+        "noimank/tvbox"
+      ]
+    },
+    {
+      "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
+      "name": "noimank/tvbox 🚀4-健康家用",
+      "kind": "vod",
+      "items": 64,
+      "repositories": [
+        "noimank/tvbox"
+      ]
+    },
+    {
+      "url": "https://clun.top/box.json",
+      "name": "noimank/tvbox 🚀5-Clun在线",
+      "kind": "vod",
+      "items": 101,
+      "repositories": [
+        "noimank/tvbox"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/yydfys/yydf/main/XYQTVBox/xyq.json",
+      "name": "xianyuyimu/TVBOX- 🌵香雅情线路",
+      "kind": "vod",
+      "items": 126,
+      "repositories": [
+        "xianyuyimu/TVBOX-"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/zilong7728/Collect-IPTV/refs/heads/main/best_sorted.m3u",
+      "name": "Collect-IPTV 自动优选",
+      "kind": "live",
+      "items": 547,
+      "repositories": [
+        "zilong7728/Collect-IPTV"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u",
+      "name": "北京 IPTV IPTV-Unicom.m3u（需本地网关）",
+      "kind": "live",
+      "items": 165,
+      "repositories": [
+        "qwerttvv/Beijing-IPTV"
+      ],
+      "note": "含本地网关/运营商网络地址，需要用户自行配置 IPTV 网关。"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Mobile.m3u",
+      "name": "北京 IPTV IPTV-Mobile.m3u（需本地网关）",
+      "kind": "live",
+      "items": 165,
+      "repositories": [
+        "qwerttvv/Beijing-IPTV"
+      ],
+      "note": "含本地网关/运营商网络地址，需要用户自行配置 IPTV 网关。"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TVboxorg/TVbox/main/dist/official.json",
+      "name": "TVboxorg 聚合（保留）",
+      "kind": "vod",
+      "items": 160,
+      "repositories": [
+        "TVboxorg/TVbox"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/list.txt",
+      "name": "Qist 初秋语 IPv4",
+      "kind": "live",
+      "items": 202,
+      "repositories": [
+        "qist/tvbox"
+      ]
+    }
+  ],
+  "excluded_repositories": {
+    "lizongying/my-tv": "播放器项目，不作为独立源入口",
+    "j4Uq/TVBoxOSC": "客户端项目",
+    "iptv-org/awesome-iptv": "工具资源导航，不是配置入口",
+    "liu673cn/bug": "抽查旧配置含注释，且相对 jar 指向的 vod/sub/jar 路径不在当前树中，未纳入",
+    "joevess/IPTV": "home.m3u8 与 iptv.m3u8 当前只有 EXTM3U 头，无频道",
+    "4gray/iptvnator": "播放器项目",
+    "2hacc/TVBox": "README 明确说明不再支持 TVBox，只支持 OK影视",
+    "lizongying/my-tv-0": "播放器项目",
+    "Dispatcharr/Dispatcharr": "部署工具",
+    "Meroser/IPTV": "README 明确说明列表仅为 logo/EPG 演示，无实际直播源",
+    "Fredolx/open-tv": "播放器项目",
+    "tvheadend/tvheadend": "服务端工具",
+    "iptv-org/epg": "EPG工具",
+    "GhostenEditor/Ghosten-Player": "播放器项目",
+    "power721/alist-tvbox": "需自行部署的工具",
+    "gstory0404/Cinetry": "播放器项目",
+    "mytv-android/mytv-android": "播放器项目",
+    "EvilCult/iptv-m3u-maker": "生成工具",
+    "mesamirh/MovieBox-Tui": "终端客户端",
+    "chrisbenincasa/tunarr": "需自行部署的频道服务",
+    "Dujltqzv/Some-Many-Books": "书籍合集，与可导入源不匹配",
+    "cirosantilli/x86-bare-metal-examples": "无关搜索命中",
+    "cirosantilli/china-dictatorship": "无关搜索命中"
+  },
+  "failed_or_unusable_urls": [
+    {
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/XYQ.json",
+      "http": "200",
+      "ok": false,
+      "reason": "非标准 JSON / M3U / TVBox TXT"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+      "http": "200",
+      "ok": false,
+      "reason": "非标准 JSON / M3U / TVBox TXT"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.m3u",
+      "http": "200",
+      "ok": false,
+      "kind": "live",
+      "count": 1,
+      "reason": "列表少于 3 条记录，未纳入主配置（包含更新时间占位列表）"
+    },
+    {
+      "url": "http://www.饭太硬.net/tv",
+      "http": "200",
+      "ok": false,
+      "reason": "非标准 JSON / M3U / TVBox TXT"
+    },
+    {
+      "url": "https://cdn.gitmirror.com/bb/xduo/libs/master/index.json",
+      "http": "000",
+      "ok": false,
+      "reason": "HTTP 000 curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to cdn.gitmirror.com:443 \n"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+      "http": "200",
+      "ok": false,
+      "reason": "非标准 JSON / M3U / TVBox TXT"
+    },
+    {
+      "url": "https://api.hgyx.vip/hgyx.json",
+      "http": "000",
+      "ok": false,
+      "reason": "HTTP 000 curl: (60) SSL certificate problem: unable to get local issuer certificate\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verif"
+    },
+    {
+      "url": "http://xhztv.top/4k.json",
+      "http": "200",
+      "ok": false,
+      "reason": "非标准 JSON / M3U / TVBox TXT"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+      "http": "200",
+      "ok": false,
+      "reason": "非标准 JSON / M3U / TVBox TXT"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
+      "http": "200",
+      "ok": false,
+      "reason": "非标准 JSON / M3U / TVBox TXT"
+    },
+    {
+      "url": "https://www.252035.xyz/z/FongMi.json",
+      "http": "200",
+      "ok": false,
+      "reason": "非标准 JSON / M3U / TVBox TXT"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/maoystv/6/main/000.json",
+      "http": "200",
+      "ok": false,
+      "kind": "live",
+      "count": 1,
+      "reason": "列表少于 3 条记录，未纳入主配置（包含更新时间占位列表）"
+    },
+    {
+      "url": "https://android.lushunming.qzz.io/json/index.json",
+      "http": "000",
+      "ok": false,
+      "reason": "HTTP 000 curl: (60) SSL certificate problem: unable to get local issuer certificate\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verif"
+    },
+    {
+      "url": "https://9877.kstore.space/AnotherDS/api.json",
+      "http": "404",
+      "ok": false,
+      "reason": "HTTP 404 "
+    },
+    {
+      "url": "http://xhztv.top/DC.txt",
+      "http": "200",
+      "ok": false,
+      "reason": "非标准 JSON / M3U / TVBox TXT"
+    },
+    {
+      "url": "http://xmbjm.fh4u.org/dc.txt",
+      "http": "200",
+      "ok": false,
+      "reason": "非标准 JSON / M3U / TVBox TXT"
+    },
+    {
+      "url": "https://develop202.github.io/migu_video/interface.txt",
+      "http": "200",
+      "ok": false,
+      "kind": "live",
+      "count": 1,
+      "reason": "列表少于 3 条记录，未纳入主配置（包含更新时间占位列表）"
+    },
+    {
+      "url": "https://live.zbds.top/tv/iptv6.txt",
+      "http": "200",
+      "ok": false,
+      "kind": "live",
+      "count": 2,
+      "reason": "列表少于 3 条记录，未纳入主配置（包含更新时间占位列表）"
+    },
+    {
+      "url": "https://live.zbds.top/tv/iptv6.m3u",
+      "http": "200",
+      "ok": false,
+      "kind": "live",
+      "count": 1,
+      "reason": "列表少于 3 条记录，未纳入主配置（包含更新时间占位列表）"
+    },
+    {
+      "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
+      "http": "000",
+      "ok": false,
+      "reason": "HTTP 000 curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to live.fanmingming.cn:443 \n"
+    },
+    {
+      "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
+      "http": "403",
+      "ok": false,
+      "reason": "HTTP 403 "
+    },
+    {
+      "url": "https://raw.liucn.cc/box/m.json",
+      "http": "200",
+      "ok": false,
+      "reason": "非标准 JSON / M3U / TVBox TXT"
+    },
+    {
+      "url": "http://ztha.top/TVBox/GYCK.json",
+      "http": "200",
+      "ok": false,
+      "kind": "multi",
+      "count": 32,
+      "children": [
+        {
+          "url": "https://ztha.top/TVBox/thdjk.json",
+          "name": "📛挺好分享"
+        },
+        {
+          "url": "http://tv.nxog.top/m",
+          "name": "🍳挺好丨讴歌线路"
+        },
+        {
+          "url": "http://hb.小虎斑.site:25252/仅供测试",
+          "name": "🐯小虎斑线路"
+        },
+        {
+          "url": "https://ghproxy.cn/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
+          "name": "🚀One线路"
+        },
+        {
+          "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+          "name": "🚀南风线路"
+        },
+        {
+          "url": "https://git.acwing.com/lw0704/66/-/raw/master/jjzx.json",
+          "name": "🚀刘伟线路"
+        },
+        {
+          "url": "https://git.acwing.com/lkq0379/zjys/-/raw/main/zjys.json",
+          "name": "🚀剪影线路"
+        },
+        {
+          "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌",
+          "name": "🚀讴歌线路"
+        },
+        {
+          "name": "🚀小虎斑线",
+          "url": "https://hb.xyyh.online/tvbox"
+        },
+        {
+          "url": "http://www.mpanso.com/小米/DEMO.json",
+          "name": "🚀小米线路"
+        },
+        {
+          "url": "http://tvbox.王二小放牛娃.top",
+          "name": "🚀王二小线"
+        },
+        {
+          "url": "https://9877.kstore.space/AnotherD/api.json",
+          "name": "🚀潇洒专线"
+        },
+        {
+          "url": "http://我不是.摸鱼儿.com",
+          "name": "🚀摸鱼线路"
+        },
+        {
+          "url": "https://6492.kstore.space/xnf/xnf.json",
+          "name": "🚀环宇轩线"
+        },
+        {
+          "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
+          "name": "🚀小苹果线"
+        },
+        {
+          "url": "http://fmys.top/fmys.json",
+          "name": "🚀驸马线路"
+        },
+        {
+          "name": "🚀拾光线路",
+          "url": "https://4708.kstore.space/svip/svip.json"
+        },
+        {
+          "url": "http://mzjk.top/禁止贩卖",
+          "name": "🚀宝盒线路"
+        },
+        {
+          "name": "🚀小马线路",
+          "url": "https://szyyds.cn/tv/x.json"
+        },
+        {
+          "name": "🚀俊佬在线",
+          "url": "http://home.jundie.top:81/top98.json"
+        },
+        {
+          "url": "http://hucongrong.web3v.work/风水/fxz/fxz.json",
+          "name": "🚀分享者线"
+        },
+        {
+          "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
+          "name": "🚀老刘线路"
+        },
+        {
+          "url": "https://chuanshuo.77blog.cn/tv.json",
+          "name": "🚀传说线路"
+        },
+        {
+          "url": "https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BA.json",
+          "name": "🚀蓝天线路"
+        },
+        {
+          "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+          "name": "🚀高天流云"
+        },
+        {
+          "url": "http://home.jundie.top:81/top98.json",
+          "name": "🚀俊佬线路"
+        },
+        {
+          "url": "https://xn--8owq8u.com/tv/",
+          "name": "🚀毒盒线路"
+        },
+        {
+          "url": "https://zthaa.top/th/api.json",
+          "name": "📛公众号丨挺好分享"
+        },
+        {
+          "url": "https://zthaa.top/thzx/th.json",
+          "name": "🌠公众号丨挺好专享"
+        },
+        {
+          "url": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json",
+          "name": "🚀青龙影线"
+        },
+        {
+          "url": "http://www.饭太硬.cc/tv",
+          "name": "🍨饭硬专线"
+        },
+        {
+          "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
+          "name": "🚀短剧大全"
+        }
+      ],
+      "reason": "嵌套多仓，需展开"
+    },
+    {
+      "url": "http://www.饭太硬.cc/tv",
+      "http": "200",
+      "ok": false,
+      "reason": "非标准 JSON / M3U / TVBox TXT"
+    },
+    {
+      "url": "https://live.zbds.org/tv/iptv6.m3u",
+      "http": "000",
+      "ok": false,
+      "reason": "HTTP 000 curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to live.zbds.org:443 \n"
+    },
+    {
+      "url": "https://live.zbds.org/tv/iptv4.m3u",
+      "http": "000",
+      "ok": false,
+      "reason": "HTTP 000 curl: (35) LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to live.zbds.org:443 \n"
+    },
+    {
+      "url": "http://82.156.243.185:54321/other.m3u",
+      "http": "000",
+      "ok": false,
+      "reason": "HTTP 000 curl: (52) Empty reply from server\n"
+    },
+    {
+      "url": "http://121.24.98.226:8090/hls/9/index.m3u8",
+      "http": "000",
+      "ok": false,
+      "reason": "HTTP 000 curl: (52) Empty reply from server\n"
+    },
+    {
+      "url": "http://121.24.98.226:8090/hls/38/index.m3u8",
+      "http": "000",
+      "ok": false,
+      "reason": "HTTP 000 curl: (52) Empty reply from server\n"
+    },
+    {
+      "url": "https://kan.waiguotai.top/other.m3u",
+      "http": "200",
+      "ok": false,
+      "kind": "live",
+      "count": 2,
+      "reason": "列表少于 3 条记录，未纳入主配置（包含更新时间占位列表）"
+    },
+    {
+      "url": "http://你的服务器IP:18765/live.m3u",
+      "http": "000",
+      "ok": false,
+      "reason": "HTTP 000 curl: (3) URL rejected: Port number was not a decimal number between 0 and 65535\n"
+    },
+    {
+      "url": "http://127.0.0.1:18765/live.m3u",
+      "http": "000",
+      "ok": false,
+      "reason": "HTTP 000 curl: (7) Failed to connect to 127.0.0.1 port 18765 after 0 ms: Couldn't connect to server\n"
+    },
+    {
+      "url": "http://192.168.1.100:18765/live.m3u",
+      "http": "000",
+      "ok": false,
+      "reason": "HTTP 000 curl: (28) Connection timed out after 16004 milliseconds\n"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/YuanHsing/freed/master/TVBox/meow.json",
+      "http": "200",
+      "ok": false,
+      "reason": "非标准 JSON / M3U / TVBox TXT"
+    },
+    {
+      "url": "https://leezn.eu.org/TVBox/py.json",
+      "http": "404",
+      "ok": false,
+      "reason": "HTTP 404 "
+    },
+    {
+      "url": "http://pandown.pro/tvbox/tvbox.json",
+      "http": "000",
+      "ok": false,
+      "reason": "HTTP 000 curl: (52) Empty reply from server\n"
+    },
+    {
+      "url": "http://tv.nxog.top/m/",
+      "http": "000",
+      "ok": false,
+      "reason": "HTTP 000 curl: (52) Empty reply from server\n"
+    },
+    {
+      "url": "http://www.lyyytv.cn/yt/yt.json",
+      "http": "404",
+      "ok": false,
+      "reason": "HTTP 404 "
+    },
+    {
+      "url": "https://www.wya6.cn/tv/yc.json",
+      "http": "200",
+      "ok": false,
+      "reason": "非标准 JSON / M3U / TVBox TXT"
+    },
+    {
+      "url": "http://www.饭太硬.com/tv",
+      "http": "000",
+      "ok": false,
+      "reason": "HTTP 000 curl: (52) Empty reply from server\n"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
+      "http": "404",
+      "ok": false,
+      "reason": "HTTP 404 "
+    },
+    {
+      "url": "http://www.mpanso.com/小米/DEMO.json",
+      "http": "404",
+      "ok": false,
+      "reason": "HTTP 404 "
+    },
+    {
+      "url": "http://我不是.摸鱼儿.top",
+      "http": "200",
+      "ok": false,
+      "reason": "非标准 JSON / M3U / TVBox TXT"
+    },
+    {
+      "url": "http://itvbox.cc/云星日记",
+      "http": "000",
+      "ok": false,
+      "reason": "HTTP 000 curl: (52) Empty reply from server\n"
+    },
+    {
+      "url": "https://weixine.net/ysc.json",
+      "http": "200",
+      "ok": false,
+      "reason": "非标准 JSON / M3U / TVBox TXT"
+    },
+    {
+      "url": "http://肥猫.com/",
+      "http": "200",
+      "ok": false,
+      "reason": "非标准 JSON / M3U / TVBox TXT"
+    }
+  ],
+  "validation": "配置/列表 HTTP 200 和结构核验；未测试 spider/jar 执行、站内搜索、播放流和电视端兼容。"
+}
