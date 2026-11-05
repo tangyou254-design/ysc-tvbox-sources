@@ -1,0 +1,23 @@
+{
+  "sites": [],
+  "lives": [
+    {
+      "name": "【LIVE】IPTV-org 中国",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/countries/cn.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】IPTV-org 中文",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】Qist 初秋语 IPv4",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/list.txt",
+      "playerType": 1
+    }
+  ]
+}
