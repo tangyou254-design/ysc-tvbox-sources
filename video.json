@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "淘片资源",
-      "name": "❤淘片资源 [213ms·382KB/s]",
+      "name": "❤淘片资源 [302ms·118KB/s]",
       "type": 1,
       "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
       "searchable": 1,
@@ -10,26 +10,17 @@
       "changeable": 0
     },
     {
-      "key": "量子",
-      "name": "🍀｜量子｜采集 [122ms·108KB/s]",
+      "key": "zy_lziapi",
+      "name": "速优 [150ms·82KB/s]",
       "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
     },
     {
-      "key": "暴風",
-      "name": "影视 • 暴風[直连] [311ms·45KB/s]",
-      "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "创享",
-      "name": "创享 | 采集 [495ms·31KB/s]",
+      "name": "创享 | 采集 [359ms·43KB/s]",
       "type": 1,
       "api": "https://ys.cxkjg.cn/api/provide/vod/",
       "searchable": 1,
@@ -37,116 +28,8 @@
       "changeable": 0
     },
     {
-      "key": "率率",
-      "name": "影视 • 率率[直连] [259ms·25KB/s]",
-      "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "优质",
-      "name": "优质 | 采集 [382ms·22KB/s]",
-      "type": 1,
-      "api": "https://api.yyzy-tv.vip/inc/apijson.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "非凡",
-      "name": "非凡 | 采集 [291ms·20KB/s]",
-      "type": 1,
-      "api": "https://cj.ffzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_xml_光速",
-      "name": "❤光速资源 [332ms·18KB/s]",
-      "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "电影天堂",
-      "name": "影视 • 电影天堂 [356ms·17KB/s]",
-      "type": 1,
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "tv_back-012_feifan",
-      "name": "🍀┃非凡┃资源·二月红接口 [367ms·16KB/s]",
-      "type": 1,
-      "api": "http://ffzy5.tv/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "zy_新浪资源",
-      "name": "新浪 [424ms·16KB/s]",
-      "type": 1,
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "csp_xml_闪电资源",
-      "name": "❤闪电资源 [391ms·15KB/s]",
-      "type": 1,
-      "api": "https://sdzyapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "tv_back-023_量子资源",
-      "name": "🥑┃量子┃资源·ok线路1 [713ms·18KB/s]",
-      "type": 1,
-      "api": "https://lzizy1.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "无尽",
-      "name": "无尽 | 采集 [425ms·15KB/s]",
-      "type": 1,
-      "api": "https://api.wujinapi.net/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "非凡2",
-      "name": "非凡┃采集 [436ms·11KB/s]",
-      "type": 0,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "非凡3",
-      "name": "影视 • 非凡[直连] [517ms·11KB/s]",
-      "type": 1,
-      "api": "http://ffzy.tv/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "量子2",
-      "name": "量子┃采集 [546ms·10KB/s]",
+      "key": "量子",
+      "name": "量子┃采集 [165ms·34KB/s]",
       "type": 0,
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -154,17 +37,107 @@
       "changeable": 1
     },
     {
-      "key": "天涯采集",
-      "name": "影视 • 天涯 [706ms·8KB/s]",
+      "key": "暴風",
+      "name": "暴風┃采集 [453ms·31KB/s]",
       "type": 1,
-      "api": "http://tyyszy.com/api.php/provide/vod",
+      "api": "https://bfzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
     },
     {
+      "key": "率率",
+      "name": "影视 • 率率[直连] [234ms·28KB/s]",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_xml_红牛",
+      "name": "❤红牛资源 [219ms·27KB/s]",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "金鹰",
+      "name": "金鹰 | 采集 [282ms·25KB/s]",
+      "type": 1,
+      "api": "https://jyzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "极速资源",
+      "name": "影视 • 极速[直连] [223ms·25KB/s]",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "tv_back-023_火狐",
+      "name": "🦊火狐采集·ok线路1 [284ms·24KB/s]",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "tv_back-023_量子资源",
+      "name": "🥑┃量子┃资源·ok线路1 [547ms·23KB/s]",
+      "type": 1,
+      "api": "https://lzizy1.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "csp_xml_光速",
+      "name": "❤光速资源 [297ms·23KB/s]",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "tv_back-023_虎牙",
+      "name": "🐯虎牙采集·ok线路1 [284ms·22KB/s]",
+      "type": 1,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "csp_xml_无尽",
+      "name": "❤无尽资源 [249ms·22KB/s]",
+      "type": 1,
+      "api": "https://api.wujinapi.me/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "csp_xml_新浪",
+      "name": "❤新浪资源 [329ms·21KB/s]",
+      "type": 1,
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide//vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
       "key": "索尼",
-      "name": "影视 • 索尼[直连] [1014ms·6KB/s]",
+      "name": "影视 • 索尼[直连] [278ms·20KB/s]",
       "type": 0,
       "api": "https://suoniapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -172,10 +145,37 @@
       "changeable": 0
     },
     {
-      "key": "tv_back-023_虎牙",
-      "name": "🐯虎牙采集·ok线路1 [1307ms·5KB/s]",
+      "key": "csp_xml_百度",
+      "name": "❤百度 [326ms·20KB/s]",
       "type": 1,
-      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
+      "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "csp_xml_闪电资源",
+      "name": "❤闪电资源 [349ms·19KB/s]",
+      "type": 1,
+      "api": "https://sdzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "无尽",
+      "name": "无尽 | 采集 [367ms·18KB/s]",
+      "type": 1,
+      "api": "https://api.wujinapi.net/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "tv_back-012_feifan",
+      "name": "🍀┃非凡┃资源·二月红接口 [373ms·16KB/s]",
+      "type": 1,
+      "api": "http://ffzy5.tv/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
