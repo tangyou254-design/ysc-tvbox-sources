@@ -1,0 +1,84 @@
+{
+  "urls": [
+    {
+      "name": "【点播】xianyuyimu/TVBOX- 🌵香雅情线路 [940KB/s·126站]",
+      "url": "https://raw.githubusercontent.com/yydfys/yydf/main/XYQTVBox/xyq.json"
+    },
+    {
+      "name": "【点播】youhunwl/TVAPP 收录 api.json [672KB/s·93站]",
+      "url": "https://raw.githubusercontent.com/chitue/dongliTV/main/api.json"
+    },
+    {
+      "name": "【点播】qist/tvbox js.json [580KB/s·298站]",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/js.json"
+    },
+    {
+      "name": "【点播】noimank/tvbox 🚀1-心魔在线 [572KB/s·151站]",
+      "url": "https://raw.githubusercontent.com/yw88075/tvbox/main/yw.json"
+    },
+    {
+      "name": "【点播】ngo5/IPTV 收录 jsm.json [558KB/s·157站]",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json"
+    },
+    {
+      "name": "【点播】qist/tvbox 0821.json [272KB/s·86站]",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/0821.json"
+    },
+    {
+      "name": "【点播】TVboxorg 聚合（保留） [231KB/s·160站]",
+      "url": "https://raw.githubusercontent.com/TVboxorg/TVbox/main/dist/official.json"
+    },
+    {
+      "name": "【点播】gaotianliuyun/gao js.json [175KB/s·298站]",
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
+    },
+    {
+      "name": "【点播】youhunwl/TVAPP 收录 api.json [163KB/s·35站]",
+      "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json"
+    },
+    {
+      "name": "【点播】qist/tvbox 0826.json [161KB/s·54站]",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/0826.json"
+    },
+    {
+      "name": "【点播】laoma528/awesome-zhuiju-free 收录 fish.json [152KB/s·104站]",
+      "url": "https://6800.kstore.vip/fish.json"
+    },
+    {
+      "name": "【点播】dongyubin/IPTV 收录 py.json [139KB/s·23站]",
+      "url": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json"
+    },
+    {
+      "name": "【点播】qist/tvbox 0827.json [127KB/s·33站]",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/0827.json"
+    },
+    {
+      "name": "【点播】gaotianliuyun/gao 0826.json [123KB/s·51站]",
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json"
+    },
+    {
+      "name": "【点播】cyao2q xs.json [110KB/s·66站]",
+      "url": "https://raw.githubusercontent.com/cyao2q/files/master/xs.json"
+    },
+    {
+      "name": "【点播】youhunwl/TVAPP 收录 newwex.json [104KB/s·98站]",
+      "url": "https://9280.kstore.vip/newwex.json"
+    },
+    {
+      "name": "【点播】dongyubin/IPTV 收录 m.json [88KB/s·58站]",
+      "url": "https://cdn.jsdelivr.net/gh/jyoketsu/tv@main/m.json"
+    },
+    {
+      "name": "【点播】noimank/tvbox 🚀4-健康家用 [81KB/s·64站]",
+      "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json"
+    },
+    {
+      "name": "【点播】gaotianliuyun/gao 0821.json [77KB/s·86站]",
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json"
+    },
+    {
+      "name": "【点播】ngo5/IPTV 收录 wex.json [72KB/s·63站]",
+      "url": "https://9280.kstore.space/wex.json"
+    }
+  ]
+}
