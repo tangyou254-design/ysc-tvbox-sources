@@ -1,0 +1,16 @@
+{
+  "urls": [
+    {
+      "name": "【点播】Qist 大而全",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/0821.json"
+    },
+    {
+      "name": "【点播】Qist 饭太硬配置",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/0826.json"
+    },
+    {
+      "name": "【点播】TVboxorg 聚合",
+      "url": "https://raw.githubusercontent.com/TVboxorg/TVbox/main/dist/official.json"
+    }
+  ]
+}
