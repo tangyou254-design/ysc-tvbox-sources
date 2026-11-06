@@ -2,123 +2,123 @@
   "sites": [],
   "lives": [
     {
-      "name": "【LIVE】dongyubin/IPTV 收录 zby.txt [实测18%可播·中位1720KB/s]",
+      "name": "【LIVE】dongyubin/IPTV 收录 zby.txt [实测18%可播·中位3801KB/s]",
       "type": 0,
       "url": "https://myernestlu.github.io/zby.txt",
       "playerType": 1
     },
     {
-      "name": "【LIVE】ngo5/IPTV 收录 live.m3u [实测87%可播·中位1198KB/s]",
+      "name": "【LIVE】ngo5/IPTV 收录 live.m3u [实测87%可播·中位1830KB/s]",
       "type": 0,
       "url": "https://raw.githubusercontent.com/zwc456baby/iptv_alive/refs/heads/master/live.m3u",
       "playerType": 1
     },
     {
-      "name": "【LIVE】dongyubin/IPTV 收录 iptv.m3u [实测11%可播·中位466KB/s]",
-      "type": 0,
-      "url": "https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u",
-      "playerType": 1
-    },
-    {
-      "name": "【LIVE】imDazui 国内电视台202509.m3u [实测29%可播·中位425KB/s]",
-      "type": 0,
-      "url": "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/国内电视台202509.m3u",
-      "playerType": 1
-    },
-    {
-      "name": "【LIVE】youhunwl/TVAPP 收录 iptv4.txt [实测81%可播·中位368KB/s]",
-      "type": 0,
-      "url": "https://live.zbds.top/tv/iptv4.txt",
-      "playerType": 1
-    },
-    {
-      "name": "【LIVE】youhunwl/TVAPP 收录 iptv.m3u [实测35%可播·中位312KB/s]",
-      "type": 0,
-      "url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-      "playerType": 1
-    },
-    {
-      "name": "【LIVE】youhunwl/TVAPP 收录 iptv4.m3u [实测81%可播·中位285KB/s]",
-      "type": 0,
-      "url": "https://live.zbds.top/tv/iptv4.m3u",
-      "playerType": 1
-    },
-    {
-      "name": "【LIVE】范明明 IPv6（IPv6） [实测15%可播·中位274KB/s]",
+      "name": "【LIVE】范明明 IPv6（IPv6） [实测12%可播·中位920KB/s]",
       "type": 0,
       "url": "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
       "playerType": 1
     },
     {
-      "name": "【LIVE】HerbertHe o_cn.m3u [实测26%可播·中位237KB/s]",
+      "name": "【LIVE】dongyubin/IPTV 收录 iptv.m3u [实测11%可播·中位796KB/s]",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】imDazui 国内电视台202509.m3u [实测28%可播·中位788KB/s]",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/国内电视台202509.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】youhunwl/TVAPP 收录 iptv4.txt [实测75%可播·中位748KB/s]",
+      "type": 0,
+      "url": "https://live.zbds.top/tv/iptv4.txt",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】youhunwl/TVAPP 收录 iptv.m3u [实测34%可播·中位621KB/s]",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】youhunwl/TVAPP 收录 iptv4.m3u [实测75%可播·中位577KB/s]",
+      "type": 0,
+      "url": "https://live.zbds.top/tv/iptv4.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】HerbertHe o_cn.m3u [实测23%可播·中位444KB/s]",
       "type": 0,
       "url": "https://m3u.ibert.me/o_cn.m3u",
       "playerType": 1
     },
     {
-      "name": "【LIVE】IPTV-org 中国 [实测26%可播·中位227KB/s]",
-      "type": 0,
-      "url": "https://iptv-org.github.io/iptv/countries/cn.m3u",
-      "playerType": 1
-    },
-    {
-      "name": "【LIVE】youhunwl/TVAPP 收录 ipv6.m3u（IPv6） [实测6%可播·中位218KB/s]",
-      "type": 0,
-      "url": "https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u",
-      "playerType": 1
-    },
-    {
-      "name": "【LIVE】Collect-IPTV 自动优选 [实测64%可播·中位199KB/s]",
+      "name": "【LIVE】Collect-IPTV 自动优选 [实测54%可播·中位442KB/s]",
       "type": 0,
       "url": "https://raw.githubusercontent.com/zilong7728/Collect-IPTV/refs/heads/main/best_sorted.m3u",
       "playerType": 1
     },
     {
-      "name": "【LIVE】Guovin 自动聚合 [实测19%可播·中位197KB/s]",
+      "name": "【LIVE】IPTV-org 中国 [实测24%可播·中位419KB/s]",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/countries/cn.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】youhunwl/TVAPP 收录 ipv6.m3u（IPv6） [实测6%可播·中位376KB/s]",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】Guovin 自动聚合 [实测18%可播·中位351KB/s]",
       "type": 0,
       "url": "https://guovin.github.io/iptv-api/result.m3u",
       "playerType": 1
     },
     {
-      "name": "【LIVE】youhunwl/TVAPP 收录 Gather.m3u [实测33%可播·中位135KB/s]",
+      "name": "【LIVE】youhunwl/TVAPP 收录 Gather.m3u [实测33%可播·中位327KB/s]",
       "type": 0,
       "url": "https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u",
       "playerType": 1
     },
     {
-      "name": "【LIVE】suxuang IPv4 [实测17%可播·中位92KB/s]",
+      "name": "【LIVE】suxuang IPv4 [实测16%可播·中位141KB/s]",
       "type": 0,
       "url": "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
       "playerType": 1
     },
     {
-      "name": "【LIVE】ngo5/IPTV 收录 cnTV_AutoUpdate.m3u8 [实测12%可播·中位6.5KB/s]",
+      "name": "【LIVE】ngo5/IPTV 收录 cnTV_AutoUpdate.m3u8 [实测14%可播·中位17KB/s]",
       "type": 0,
       "url": "https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8",
       "playerType": 1
     },
     {
-      "name": "【LIVE】IPTV-org 中文 [实测27%可播·中位1.6KB/s]",
-      "type": 0,
-      "url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
-      "playerType": 1
-    },
-    {
-      "name": "【LIVE】imDazui 台湾香港澳门202506.m3u [实测28%可播·中位1.5KB/s]",
+      "name": "【LIVE】imDazui 台湾香港澳门202506.m3u [实测18%可播·中位1.9KB/s]",
       "type": 0,
       "url": "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/台湾香港澳门202506.m3u",
       "playerType": 1
     },
     {
-      "name": "【LIVE】imDazui 国外电视台202409.m3u [实测43%可播·中位1.2KB/s]",
+      "name": "【LIVE】IPTV-org 中文 [实测24%可播·中位1.7KB/s]",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "【LIVE】imDazui 国外电视台202409.m3u [实测42%可播·中位1.4KB/s]",
       "type": 0,
       "url": "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/国外电视台202409.m3u",
       "playerType": 1
     },
     {
-      "name": "【LIVE】Free-TV 国际 [实测44%可播·中位0.5KB/s]",
+      "name": "【LIVE】dongyubin/IPTV 收录 tw.m3u [实测18%可播·中位0.9KB/s]",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
+      "url": "https://iptv-org.github.io/iptv/countries/tw.m3u",
       "playerType": 1
     }
   ]
