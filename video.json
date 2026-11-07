@@ -1,8 +1,8 @@
 {
   "sites": [
     {
-      "key": "洮片资源",
-      "name": "❤洮片资源 [188ms·747KB/s]",
+      "key": "淘片资源",
+      "name": "❤淘片资源 [188ms·747KB/s]",
       "type": 1,
       "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
       "searchable": 1,
